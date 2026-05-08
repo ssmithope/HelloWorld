@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6k+uxqNQPzs=",
+  "dgSpecHash": "rbWWu+NZp/o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\smith\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Smith\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smith\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.5\\microsoft.netcore.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Smith\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.5\\microsoft.windowsdesktop.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Smith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.5\\microsoft.aspnetcore.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Smith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.5\\microsoft.netcore.app.host.win-x64.10.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
