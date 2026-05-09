@@ -6,7 +6,7 @@ The software is a basic console application written in C#. When executed, it pri
 
 My purpose in creating this software is to establish a reliable baseline for future projects, practice using GitHub effectively, and demonstrate the ability to document and present software in a clear and professional way.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.youtube.com/watch?v=LGeQtt0kX-U&t=41s)
 
 # Development Environment
 
