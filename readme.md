@@ -6,7 +6,7 @@ The software is a basic console application written in C#. When executed, it pri
 
 My purpose in creating this software is to establish a reliable baseline for future projects, practice using GitHub effectively, and demonstrate the ability to document and present software in a clear and professional way.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]()
 
 # Development Environment
 
@@ -24,6 +24,5 @@ The program is written in C#, a modern, object‑oriented programming language d
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [GitHub](https://github.com/ssmithope/HelloWorld)
 * [Markdown Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
